@@ -85,7 +85,7 @@ python main.py
  |:---:|--------------------|:-----------------:|
  | 1   | Letters (a-z, A-Z) | 8–12              |
  | 2   | Numbers (0-9)      | 2–4               |
- | 3   | Symbols (!@#$%)    | 2–4                |
+ | 3   | Symbols (!@#$%)    | 2–4               |
 
 ---
 ## 🧠 Example Usage
@@ -119,7 +119,7 @@ How many symbols :  3
 ---
 ### Vault Data in Excel
 
-![VaultHaus Excel Preview](excel.png)
+![VaultHaus Excel Preview](vaulthaus-cli/images/excel.png)
 ---
 ## 🧩 Tech Stack
 
