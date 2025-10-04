@@ -119,7 +119,7 @@ How many symbols :  3
 ---
 ### Vault Data in Excel
 
-![VaultHaus Excel Preview](VaultHaus/vaulthaus-cli/images/excel.png)
+![VaultHaus Excel Preview](vaulthaus-cli/images/excel.png)
 ---
 ## 🧩 Tech Stack
 
