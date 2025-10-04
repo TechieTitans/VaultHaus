@@ -1,0 +1,9 @@
+# 1. Ignore the data file to keep passwords private
+*.xlsx
+
+# 2. Ignore Python's cache folder
+__pycache__/
+
+# 3. Ignore common operating system files
+.DS_Store
+Thumbs.db
