@@ -117,7 +117,7 @@ How many symbols :  3
 +---+----------+---------------+------------------+
 ```
 ---
-### Vault Data in Excel
+##👀 Vault Data in Excel
 
 ![VaultHaus Excel Preview](vaulthaus-cli/images/excel.png)
 ---
