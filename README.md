@@ -147,7 +147,7 @@ How many symbols :  3
 
 This project was created with my own ideas and effort, using an AI model (Google's Gemini) as a development tool to assist with specific technical challenges.
 
-My role was to lead the project, define the features, and write the core logic. AI assistance was primarily used for:
+We role was to lead the project, define the features, and write the core logic. AI assistance was primarily used for:
 
 -   **Implementing Complex Features**: Generating the initial code for more difficult tasks like robust error handling (`try...except` blocks) and data persistence (reading from and writing to the `.xlsx` file).
 -   **Code Refinement**: Helping to clean up and format the code to follow professional standards and best practices.
