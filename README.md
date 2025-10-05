@@ -28,15 +28,23 @@ VaultHaus is built for **developers and privacy-conscious users** who want simpl
 
 ## 📂 Project Structure
  ```
-vaulthaus-cli/
-│
-├── .gitattributes  
-│
-├── .gitignore  
-│
-└──  README.md
-│
-└──  main.py 
+VaultHaus/
+    │
+    │
+    ├── vaulthaus-cli/
+    │          │
+    │          ├── images
+    │          │       │
+    │          │       └── excel.png
+    │          │
+    │          ├── .gitattributes  
+    │          │
+    │          ├── .gitignore 
+    │          │
+    │          ├──  main.py
+    │
+    └── README.md 
+      
 ```
 
 
@@ -51,7 +59,6 @@ Install required dependencies using pip:
 ```bash
 pip install pandas tabulate openpyxl
 ```
-
 ---
  
 ## ▶️ How to Run
@@ -59,7 +66,7 @@ pip install pandas tabulate openpyxl
 Run the project directly from your terminal:
 
 ```bash
-python main.py
+main.py
 ```
 
 👀 You’ll see the main menu:
@@ -85,9 +92,15 @@ python main.py
  |:---:|--------------------|:-----------------:|
  | 1   | Letters (a-z, A-Z) | 8–12              |
  | 2   | Numbers (0-9)      | 2–4               |
-| 3   | Symbols (!@#$%)    | 2–4               |
+ | 3   | Symbols (!@#$%)    | 2–4               |
 
 ---
+
+## 🎥 VaultHaus Demo
+
+▶️ [Watch Local Demo](vid.mp4)
+
+
 ## 🧠 Example Usage
 
 ```bash
@@ -117,7 +130,7 @@ How many symbols :  3
 +---+----------+---------------+------------------+
 ```
 ---
-### Vault Data in Excel
+## 👀 Vault Data in Excel
 
 ![VaultHaus Excel Preview](vaulthaus-cli/images/excel.png)
 ---
@@ -147,7 +160,7 @@ How many symbols :  3
 
 This project was created with my own ideas and effort, using an AI model (Google's Gemini) as a development tool to assist with specific technical challenges.
 
-My role was to lead the project, define the features, and write the core logic. AI assistance was primarily used for:
+We role was to lead the project, define the features, and write the core logic. AI assistance was primarily used for:
 
 -   **Implementing Complex Features**: Generating the initial code for more difficult tasks like robust error handling (`try...except` blocks) and data persistence (reading from and writing to the `.xlsx` file).
 -   **Code Refinement**: Helping to clean up and format the code to follow professional standards and best practices.
