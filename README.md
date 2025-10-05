@@ -67,7 +67,7 @@ pip install pandas tabulate openpyxl
 Run the project directly from your terminal:
 
 ```bash
-python main.py
+main.py
 ```
 
 👀 You’ll see the main menu:
