@@ -28,15 +28,23 @@ VaultHaus is built for **developers and privacy-conscious users** who want simpl
 
 ## 📂 Project Structure
  ```
-vaulthaus-cli/
-│
-├── .gitattributes  
-│
-├── .gitignore  
-│
-└──  README.md
-│
-└──  main.py 
+vVaultHaus/
+    │
+    │
+    ├── vaulthaus-cli/
+    │          │
+    │          ├── images
+    │          │       │
+    │          │       └── excel.png
+    │          │
+    │          ├── .gitattributes  
+    │          │
+    │          ├── .gitignore 
+    │          │
+    │          ├──  main.py
+    │
+    └── README.md 
+      
 ```
 
 
