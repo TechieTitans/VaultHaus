@@ -28,7 +28,7 @@ VaultHaus is built for **developers and privacy-conscious users** who want simpl
 
 ## 📂 Project Structure
  ```
-vVaultHaus/
+VaultHaus/
     │
     │
     ├── vaulthaus-cli/
