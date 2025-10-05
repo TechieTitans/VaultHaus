@@ -33,9 +33,15 @@ VaultHaus/
     │
     ├── vaulthaus-cli/
     │          │
-    │          ├── images
+    │          ├── demo/
+    │          │      │
+    │          │      └── vid.mp4
+    │          ├── images/
     │          │       │
     │          │       └── excel.png
+    │          ├── demo/
+    │          │     │
+    │          │     └── vid.mp4
     │          │
     │          ├── .gitattributes  
     │          │
@@ -100,11 +106,11 @@ main.py
 
  
 <video width="640" height="360" controls>
-  <source src="VaultHaus/vid.mp4"type="video/mp4">
+  <source src="vaulthaus-cli/demo/vid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-▶️ [Watch Local Demo](VaultHaus/vid.mp4)
+▶️ [Watch Local Demo](vaulthaus-cli/demo/vid.mp4)
 
 ## 🧠 Example Usage
 
