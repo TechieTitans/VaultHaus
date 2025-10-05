@@ -33,9 +33,9 @@ VaultHaus/
     │
     ├── vaulthaus-cli/
     │          │
-    │          ├── demo/
+    │          ├── database/
     │          │      │
-    │          │      └── vid.mp4
+    │          │      └── vaulthaus_data.xlsx
     │          ├── images/
     │          │       │
     │          │       └── excel.png
