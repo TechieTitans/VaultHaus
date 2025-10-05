@@ -104,6 +104,8 @@ main.py
   Your browser does not support the video tag.
 </video>
 
+▶️ [Watch Local Demo](VaultHaus/vid.mp4)
+
 ## 🧠 Example Usage
 
 ```bash
